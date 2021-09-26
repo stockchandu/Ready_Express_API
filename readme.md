@@ -18,7 +18,7 @@ npm i packagename
 
 # Usage
 ```js
-const chalk = require('chalk');
+const chalk = require('@ck456/readymade_express_api');
 
 console.log(chalk.blue('Hello world!'));
 ```
