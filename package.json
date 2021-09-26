@@ -1,0 +1,28 @@
+{
+  "name": "readymade_express_api",
+  "version": "0.0.1",
+  "description": "The readymade express API package , oneclick to run API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockchandu/Ready_Express_API.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "readymade",
+    "express",
+    "api",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "malikchandan926@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stockchandu/Ready_Express_API/issues"
+  },
+  "homepage": "https://github.com/stockchandu/Ready_Express_API#readme"
+}
