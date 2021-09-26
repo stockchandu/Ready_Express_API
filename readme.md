@@ -1,26 +1,25 @@
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--_QMQU86---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6dnng3pre04xxdebia1g.png)
 
 # Hightlights
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
+- Instant Use
+- No need to Write lengthy code
+- Expressive API
+- Actively maintained
+- Not much technical part
+
+### Note- you need to install express and moongose in order to use our package
 
 # Install
 
 ```
-npm i packagename
+npm i @ck456/readymade_express_api
 ```
 
 # Usage
 ```js
-const chalk = require('@ck456/readymade_express_api');
+const userController = require('@ck456/readymade_express_api');
 
-console.log(chalk.blue('Hello world!'));
+console.log(userController);
 ```
-Chalk comes with an easy to use composable API where you just chain and nest the styles you want.
+readymade_express_api comes with an easy to use composable API where you just chain and do CRUD operation.
 
